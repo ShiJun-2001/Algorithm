@@ -1,0 +1,11 @@
+# Visual Studio
+*.sln
+*.vcxproj*
+.vs/
+
+# Build artifacts
+build/
+bin/
+obj/
+*.o
+*.exe
